@@ -1,0 +1,12 @@
+name: SpawnPL
+version: '${project.version}'
+main: com.foxdev.spawnpl.SpawnPL
+api-version: 1.19
+description: Made by LockedDevelopment
+
+commands:
+  spawn:
+    description: Spawn command
+  setspawn:
+    permission: locked.setspawn
+    description: SetSpawn command
